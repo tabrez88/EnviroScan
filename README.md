@@ -46,4 +46,4 @@ Analysis Execution: Select Train Models to execute the machine learning pipeline
 Reporting: Utilize the dedicated section to generate and download all relevant summary and detailed reports.
 
 V. Licensing
-This project is released under the MIT License.
+This project is open-source under the MIT License.
